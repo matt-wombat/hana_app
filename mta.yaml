@@ -21,7 +21,7 @@ modules:
       - name: hdi_db
         properties:
           TARGET_CONTAINER: '~{hdi-container-name}'
-      - name: cross-container-service-products
+      - name: cross-container-service-1
         group: SERVICE_REPLACEMENTS
         properties:
           key: ServiceName_1
@@ -54,7 +54,7 @@ resources:
     parameters:
       service: sapui5_sb
       service-plan: sapui5-1.52
-  - name: cross-container-service-products
+  - name: cross-container-service-1
     parameters:
       service-name: CROSS_SCHEMA_PRODUCTS
     properties:
