@@ -17,7 +17,7 @@ On a fresh SAP HANA Express it is required to do the following tasks which are c
 
 ## Implementation
 
-* Build db module
-* Build core_xsjs module
-* Run web module
+1. Build db module
+2. Build core_xsjs module
+3. Run web module
 
