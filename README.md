@@ -8,6 +8,7 @@ This repository contains the results from the following SAP tutorials:
 https://developers.sap.com/mission.xsa-get-started.html
 2. Create an SAPUI5 application with SAP HANA XS Advanced
 https://developers.sap.com/group.hana-xsa-sapui5.html
+Requirements: SAPUI5 >= v1.40
 
 ## Prerequisites
 
