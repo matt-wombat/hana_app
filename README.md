@@ -37,3 +37,6 @@ On a fresh SAP HANA Express it is required to do the following tasks which are c
 - **odataBasic/index.html** Consume basic OData service with SAPUI5 list app with dynamically creating columns
 - **odataView/index.html** Consume multi entity OData service with SAPUI5 form and list app
 - **odataCRUD/index.html** SAPUI5 form and list app with create, read and update options
+
+## Troubleshooting
+- Missing file excersisesMaster.xsjs added
